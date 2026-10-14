@@ -12,11 +12,11 @@ function Home() {
         {/* Main Content Sections */}
               <main className="flex-grow">
                 <Hero />
-                <OurCollaboration />
+                
                 <CoreServices />
                 <OurMission />
                 <TrustedInnovators />
-                <TheMindsBehind />
+                
               </main>
     </div>
   )

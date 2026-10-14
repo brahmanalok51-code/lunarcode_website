@@ -1,38 +1,43 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
-import { Code, Cpu, Cloud, ShieldCheck, Layers, ArrowRight } from 'lucide-react';
+import { Code, Cpu, Layers, Cloud, ShieldCheck, Network, ArrowRight } from 'lucide-react';
 
 export default function CoreServices() {
   const { t } = useTranslation();
 
-  const services = [
-    {
-      icon: Code,
-      title: t('services.custom_software.title'),
-      desc: t('services.custom_software.desc'),
-    },
-    {
-      icon: Cpu,
-      title: t('services.ai_automation.title'),
-      desc: t('services.ai_automation.desc'),
-    },
-    {
-      icon: Layers,
-      title: t('services.saas_dev.title'),
-      desc: t('services.saas_dev.desc'),
-    },
-    {
-      icon: Cloud,
-      title: t('services.cloud_infra.title'),
-      desc: t('services.cloud_infra.desc'),
-    },
-    {
-      icon: ShieldCheck,
-      title: t('services.security.title'),
-      desc: t('services.security.desc'),
-    },
-  ];
+ const services = [
+  {
+    icon: Code,
+    title: t('services.custom_software.title'),
+    desc: t('services.custom_software.desc'),
+  },
+  {
+    icon: Cpu,
+    title: t('services.ai_automation.title'),
+    desc: t('services.ai_automation.desc'),
+  },
+  {
+    icon: Layers,
+    title: t('services.saas_dev.title'),
+    desc: t('services.saas_dev.desc'),
+  },
+  {
+    icon: Cloud,
+    title: t('services.cloud_infra.title'),
+    desc: t('services.cloud_infra.desc'),
+  },
+  {
+    icon: ShieldCheck,
+    title: t('services.security.title'),
+    desc: t('services.security.desc'),
+  },
+  {
+    icon: Network,
+    title: t('services.api_integration.title'),
+    desc: t('services.api_integration.desc'),
+  },
+];
 
   return (
     <section id="services" className="py-24 bg-[#030305] relative overflow-hidden">
@@ -78,10 +83,7 @@ export default function CoreServices() {
                   </p>
                 </div>
 
-                <div className="mt-8 pt-4 border-t border-purple-950/30 flex items-center gap-2 text-xs font-semibold text-purple-400 group-hover:text-purple-300 transition-colors cursor-pointer">
-                  <span>{t('services.learn_more')}</span>
-                  <ArrowRight className="w-3.5 h-3.5 group-hover:translate-x-1 transition-transform" />
-                </div>
+              
               </motion.div>
             );
           })}
