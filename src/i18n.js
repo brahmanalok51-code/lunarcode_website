@@ -6,6 +6,188 @@ export const resources = {
   en: {
     translation: {
 
+      nav: {
+        home: "Home",
+        about: "About",
+        services: "Services",
+        products: "Products",
+        contact: "Contact",
+        launch_project: "Launch Project"
+      },
+      blog: {
+        brand_subtitle: "Engineering & Cloud",
+        nav_all_articles: "All Articles",
+        nav_featured_story: "Featured Story",
+        about_lunarcode: "About LunarCode",
+        featured_nav_mobile: "Featured: Web Apps For Business",
+        share_toast_title: "Separate Link Copied!",
+        share_toast_desc: "Unique blog URL is ready to share.",
+        footer_copyright: "© {{year}} LunarCode. Software development, SaaS engineering & cloud infrastructure.",
+        footer_preserved: "All Content Preserved",
+        footer_articles: "Articles",
+        footer_web_apps: "Web Applications",
+        
+        feed: {
+          badge: "Digital Transformation & Systems Architecture",
+          hero_title_1: "Engineering",
+          hero_title_highlight: "Smarter Solutions",
+          hero_title_2: "for Rapid Growth.",
+          hero_desc: "Explore in-depth technical blueprints, scalable architecture guides, and strategic insights curated by the LunarCode team.",
+          featured_badge: "Featured Publication",
+          read_full_article: "Read Full Article",
+          special_report: "SPECIAL REPORT",
+          special_report_sub: "Comprehensive 6-Section Breakdown",
+          sr_item_1: "Task Automation & Data Flow",
+          sr_item_2: "Partner Selection Criteria",
+          sr_item_3: "Cloud Infrastructure & Scaling",
+          sr_item_4: "LunarCode Capabilities",
+          sr_footer: "Includes full verbatim editorial & implementation steps.",
+          search_placeholder: "Search topics, keywords, tags...",
+          no_articles_title: "No articles match your search",
+          no_articles_desc: "Try another keyword or reset the category filter.",
+          reset_filters: "Reset Filters"
+        },
+
+        single: {
+          back_to_all: "Back to All Articles",
+          bookmark_save: "Save Article",
+          bookmark_remove: "Remove Bookmark",
+          share_link_btn: "Share Link",
+          cta_badge: "Work With LunarCode",
+          cta_title: "Ready to Build a Smarter, Scalable Web Application?",
+          cta_desc: "LunarCode provides end-to-end software development, SaaS engineering, AI and workflow automation, cloud infrastructure, and enterprise system integration.",
+          cta_share_guide: "Share Architecture Guide",
+          cta_browse_more: "Browse More Topics",
+          toc_title: "Table of Contents",
+          routing_title: "Separate Link & Routing",
+          routing_desc: "This article is accessible at its own distinct URL hash:",
+          copy_perm_url: "Copy Permanent URL",
+          editorial_title: "LunarCode Editorial",
+          editorial_role: "Engineering & Cloud",
+          editorial_desc: "Focusing on cloud infrastructure, workflow automation, and custom web software solutions."
+        },
+
+        categories: {
+          all: "All",
+          software_dev: "Software Development",
+          cloud_infra: "Cloud Infrastructure",
+          ai_automation: "Automation & AI"
+        },
+
+        posts: {
+          web_apps: {
+            title: "How Web Applications Help Businesses Work Smarter and Grow Faster",
+            category: "Software Development",
+            readTime: "7 min read",
+            date: "October 16, 2026",
+            author_name: "LunarCode Insights",
+            author_role: "Engineering & Cloud Architecture",
+            excerpt: "Running a business involves managing customers, organizing information, handling daily tasks, and making decisions that support growth. Discover how web apps and cloud architecture automate workflows and drive scalability.",
+            lead: "Running a business involves managing customers, organizing information, handling daily tasks, and making decisions that support growth. When these activities depend on spreadsheets, manual work, or disconnected tools, even simple processes can become time-consuming.",
+            intro1: "This is where web applications can make a difference. They help businesses manage their operations, improve customer experiences, and bring important activities together in one place.",
+            intro2: "For businesses looking to improve their digital operations, working with a reliable Web Application Development Company can be a practical step toward building software that meets their specific needs.",
+            intro3: "But how do web applications actually help a business work smarter? Let's explore their benefits, the role of cloud technology, and why planning for future growth matters.",
+            
+            sec1_title: "What Is a Web Application?",
+            sec1_p1: "A web application is a software program that users access through a web browser. Unlike a basic website that mainly shares information, a web application allows users to complete tasks and interact with different features.",
+            sec1_p2: "Common examples include online booking systems, customer management platforms, employee dashboards, inventory management tools, and e-commerce applications.",
+            sec1_p3: "For example, a service business might use a web application to manage appointments, store customer details, track payments, and organize employee schedules. Instead of switching between several tools, the team can access the information it needs from one platform.",
+            sec1_p4: "The main purpose is simple: make everyday work easier, more organized, and more efficient.",
+            
+            sec2_title: "How Web Applications Help Businesses Work Smarter",
+            sec2_p1: "Every business has processes that take time but could be managed more efficiently. A well-designed web application can help simplify these activities.",
+            
+            sub1_title: "Automate Repetitive Tasks",
+            sub1_body: "Many businesses spend hours handling routine activities such as entering data, preparing reports, updating records, and sending notifications.\n\nA web application can automate suitable tasks and reduce the amount of manual work required. For example, an online booking system can confirm appointments automatically, while an inventory application can update stock records when orders are processed.\n\nThis allows employees to spend more time on customer service, planning, and other important responsibilities.",
+            
+            sub2_title: "Keep Business Information Organized",
+            sub2_body: "When information is spread across multiple spreadsheets and applications, finding the correct details can be difficult.\n\nA custom web application can bring relevant business information into a centralized system. Depending on its features, employees may be able to check orders, view customer records, monitor projects, and prepare reports from a single dashboard.\n\nOrganized information also helps business owners understand their operations and make better-informed decisions.",
+            
+            sub3_title: "Improve the Customer Experience",
+            sub3_body: "Customers value convenience. They want to find information, access services, and complete transactions without unnecessary delays.\n\nWeb applications can provide features such as customer accounts, online payments, appointment scheduling, order tracking, and self-service portals.\n\nFor example, a customer who can book a service online without making several phone calls may find the overall experience much easier.\n\nWhen applications are designed around real customer needs, they can help businesses deliver more convenient and consistent services.",
+            
+            sub4_title: "Support Remote Teams",
+            sub4_body: "Many businesses have employees working from different locations. Web applications can give authorized team members access to the information and tools they need through an internet connection.\n\nProject dashboards, shared workspaces, and online reporting tools can help teams coordinate their activities and keep track of progress.\n\nWith appropriate access controls and security measures, businesses can support flexible working arrangements without losing visibility into important operations.",
+            
+            sec3_title: "Why Choosing the Right Web Application Development Company Matters",
+            sec3_p1: "Every business operates differently. A solution that works well for an online retailer may not be suitable for a manufacturing company or a professional service provider.",
+            sec3_p2: "A reliable Web Application Development Company takes the time to understand these differences before recommending a solution.",
+            sec3_p3: "The process usually begins with identifying business goals, understanding user requirements, and deciding which features are essential. Developers then plan the application, design its interface, build the required functionality, and test it before launch.",
+            sec3_p4: "When choosing a development partner, consider the following factors:",
+            bp1_title: "Business understanding",
+            bp1_text: "The team should understand the problem you want to solve rather than simply suggest technical features.",
+            bp2_title: "User-friendly design",
+            bp2_text: "The application should be easy to navigate and work well across relevant devices.",
+            bp3_title: "Security",
+            bp3_text: "User permissions, secure authentication, and appropriate data protection measures should be part of the development process.",
+            bp4_title: "Integration",
+            bp4_text: "The application may need to connect with existing tools, payment systems, or third-party services.",
+            bp5_title: "Ongoing support",
+            bp5_text: "Updates, maintenance, bug fixes, and future improvements should be considered from the beginning.",
+            sec3_conclusion: "The best solution is not necessarily the one with the most features. It is the one that solves your business problems effectively and remains practical to maintain.",
+            
+            sec4_title: "The Role of Cloud Infrastructure Services",
+            sec4_p1: "A web application needs a suitable environment to operate. This environment includes computing resources, storage, networking, and the supporting systems required to deliver the application to users.",
+            sec4_p2: "Cloud Infrastructure Services help businesses access these resources without having to manage all the underlying physical infrastructure themselves.",
+            sec4_p3: "Cloud infrastructure can offer several advantages.",
+            sec4_p4: "First, businesses can adjust resources as their application requirements change. This can be useful when traffic increases during busy periods or when a company expands its digital services.",
+            sec4_p5: "Second, cloud environments can support automated deployment, monitoring, backups, and recovery processes when these capabilities are configured appropriately.",
+            sec4_p6: "Third, cloud infrastructure can make it easier for development teams to release updates and manage applications across different environments.",
+            sec4_p7: "However, moving an application to the cloud does not automatically guarantee better performance or security. The infrastructure must be designed properly, monitored regularly, and managed according to the application's needs.",
+            sec4_p8: "For businesses building new digital products, selecting an appropriate cloud setup can help establish a reliable foundation.",
+            
+            sec5_title: "Why Scalable Software Solutions Are Important",
+            sec5_p1: "Business growth often brings new requirements. An application that works well for a small team today may need additional capacity and functionality as the number of users increases.",
+            sec5_p2: "This is why Scalable Software Solutions are important.",
+            sec5_p3: "Scalable software is designed to accommodate changing requirements without forcing a complete rebuild every time the business grows.",
+            sec5_p4: "For example, an online store may need to handle more customers during seasonal sales. A SaaS business may introduce new subscription plans, while a service company may need to support additional locations.",
+            sec5_p5: "A well-planned software architecture can make these changes easier to manage.",
+            sec5_p6: "Scalability may involve optimizing databases, improving application performance, adding infrastructure capacity, or organizing software into components that can be maintained independently.",
+            sec5_p7: "It also means thinking carefully about future needs without making the initial application unnecessarily complicated.",
+            sec5_p8: "By planning for realistic growth, businesses can reduce avoidable technical limitations and make future improvements more manageable.",
+            
+            sec6_title: "How LunarCode Can Help Your Business",
+            sec6_p1: "Choosing the right technology starts with understanding what your business needs to achieve.",
+            sec6_p2: "LunarCode works across software development, SaaS engineering, AI and workflow automation, cloud infrastructure, and system integration. These capabilities can support businesses that want to develop digital products, improve existing systems, or make their operations more efficient.",
+            sec6_p3: "Whether you are planning a new web application or improving an existing platform, it helps to begin with a clear goal. You might want to reduce manual work, improve customer access, connect separate systems, or prepare your software for a growing user base.",
+            sec6_p4: "A practical development approach focuses on the most important requirements first, tests the solution carefully, and leaves room for improvements as the business evolves."
+          },
+
+          cloud_sec: {
+            title: "Building Resilient Enterprise Systems: Cloud Security & Scalability",
+            category: "Cloud Infrastructure",
+            readTime: "5 min read",
+            date: "October 10, 2026",
+            author_name: "LunarCode Security Team",
+            author_role: "DevSecOps Division",
+            excerpt: "Explore foundational tenets of modern cloud environments: zero-trust principles, containerization, microservice decoupling, and automated CI/CD pipelines.",
+            lead: "Security and scalability are not post-launch add-ons; they are architectural decisions made on day one.",
+            intro1: "In a distributed software environment, safeguarding customer data while sustaining low-latency performance demands proactive infrastructure configuration.",
+            intro2: "By orchestrating container clusters, applying dynamic access tokens, and automating backup snapshots, modern companies establish long-term digital resilience.",
+            sec1_title: "Key Cloud Pillars",
+            sec1_p1: "Continuous monitoring, least privilege authorization, and automated regression testing safeguard services as user loads expand.",
+            sec1_p2: "Partnering with seasoned architects guarantees that each software tier scales independently without incurring downtime or spiraling operational overhead."
+          },
+
+          ai_workflow: {
+            title: "Automating Complex Workflows: Moving Beyond Spreadsheets",
+            category: "Automation & AI",
+            readTime: "4 min read",
+            date: "September 28, 2026",
+            author_name: "LunarCode AI Lab",
+            author_role: "Automation Engineers",
+            excerpt: "How intelligent agents and automated pipelines reduce human error, streamline customer queries, and harmonize disconnected enterprise SaaS tools.",
+            lead: "Manual copy-pasting between disparate portals degrades employee morale and introduces systemic data discrepancies.",
+            intro1: "Modern workflow automation bridges siloed databases, ERPs, and client portals with event-driven endpoints and smart pipelines.",
+            intro2: "Teams recover hundreds of productive hours monthly by handing predictable processing over to automated background services.",
+            sec1_title: "The Transformative Impact of Automation",
+            sec1_p1: "Smart notification triggers, instantaneous inventory adjustments, and real-time ledger updates create a frictionless business rhythm.",
+            sec1_p2: "LunarCode specializes in building custom integrations that transform repetitive chores into autonomous competitive advantages."
+          }
+        }
+      }
+        ,
+
       "web_app_guide": {
   "badge": "LUNARCODE INSIGHTS // SOFTWARE ARCHITECTURE",
   "heroTitle": "How Web Applications Help Businesses Work Smarter and Grow Faster",
@@ -1250,6 +1432,188 @@ about_page: {
   // },
   de: {
     translation: {
+
+
+      nav: {
+        home: "Startseite",
+        about: "Über uns",
+        services: "Dienstleistungen",
+        products: "Produkte",
+        contact: "Kontakt",
+        launch_project: "Projekt starten"
+      },
+      blog: {
+        brand_subtitle: "Engineering & Cloud",
+        nav_all_articles: "Alle Artikel",
+        nav_featured_story: "Top-Beitrag",
+        about_lunarcode: "Über LunarCode",
+        featured_nav_mobile: "Fokus: Web-Apps für Unternehmen",
+        share_toast_title: "Separater Link kopiert!",
+        share_toast_desc: "Eindeutige Blog-URL kann geteilt werden.",
+        footer_copyright: "© {{year}} LunarCode. Softwareentwicklung, SaaS-Engineering & Cloud-Infrastruktur.",
+        footer_preserved: "Vollständiger Inhalt unverändert",
+        footer_articles: "Artikel",
+        footer_web_apps: "Webanwendungen",
+
+        feed: {
+          badge: "Digitale Transformation & Systemarchitektur",
+          hero_title_1: "Entwicklung",
+          hero_title_highlight: "intelligenter Lösungen",
+          hero_title_2: "für schnelles Wachstum.",
+          hero_desc: "Entdecken Sie detaillierte technische Leitfäden, skalierbare Architekturen und strategische Einblicke des LunarCode-Teams.",
+          featured_badge: "Ausgewählte Publikation",
+          read_full_article: "Vollständigen Artikel lesen",
+          special_report: "SONDERBERICHT",
+          special_report_sub: "Umfassende 6-teilige Analyse",
+          sr_item_1: "Aufgabenautomatisierung & Datenfluss",
+          sr_item_2: "Kriterien zur Partnerauswahl",
+          sr_item_3: "Cloud-Infrastruktur & Skalierung",
+          sr_item_4: "Kompetenzen von LunarCode",
+          sr_footer: "Enthält den vollständigen redaktionellen Text & Umsetzungsschritte.",
+          search_placeholder: "Themen, Stichwörter, Tags suchen...",
+          no_articles_title: "Keine Artikel entsprechen Ihrer Suche",
+          no_articles_desc: "Versuchen Sie einen anderen Begriff oder setzen Sie den Kategoriefilter zurück.",
+          reset_filters: "Filter zurücksetzen"
+        },
+
+        single: {
+          back_to_all: "Zurück zu allen Artikeln",
+          bookmark_save: "Artikel merken",
+          bookmark_remove: "Lesezeichen entfernen",
+          share_link_btn: "Link teilen",
+          cta_badge: "Zusammenarbeit mit LunarCode",
+          cta_title: "Bereit für den Aufbau einer intelligenteren, skalierbaren Webanwendung?",
+          cta_desc: "LunarCode bietet ganzheitliche Softwareentwicklung, SaaS-Engineering, KI- und Workflow-Automatisierung, Cloud-Infrastruktur und nahtlose Systemintegration.",
+          cta_share_guide: "Architektur-Guide teilen",
+          cta_browse_more: "Weitere Themen entdecken",
+          toc_title: "Inhaltsverzeichnis",
+          routing_title: "Separater Link & Routing",
+          routing_desc: "Dieser Artikel ist unter seinem eigenen URL-Hash abrufbar:",
+          copy_perm_url: "Permanente URL kopieren",
+          editorial_title: "LunarCode Redaktion",
+          editorial_role: "Engineering & Cloud",
+          editorial_desc: "Spezialisiert auf Cloud-Infrastruktur, Workflow-Automatisierung und individuelle Websoftware-Lösungen."
+        },
+
+        categories: {
+          all: "Alle",
+          software_dev: "Softwareentwicklung",
+          cloud_infra: "Cloud-Infrastruktur",
+          ai_automation: "Automatisierung & KI"
+        },
+
+        posts: {
+          web_apps: {
+            title: "Wie Webanwendungen Unternehmen dabei helfen, intelligenter zu arbeiten und schneller zu wachsen",
+            category: "Softwareentwicklung",
+            readTime: "7 Min. Lesezeit",
+            date: "16. Oktober 2026",
+            author_name: "LunarCode Insights",
+            author_role: "Engineering & Cloud-Architektur",
+            excerpt: "Ein Unternehmen zu führen bedeutet, Kunden zu betreuen, Informationen zu strukturieren, tägliche Aufgaben abzuwickeln und Entscheidungen zu treffen. Erfahren Sie, wie Web-Apps und Cloud-Architektur Abläufe automatisieren und Skalierbarkeit fördern.",
+            lead: "Running a business involves managing customers, organizing information, handling daily tasks, and making decisions that support growth. When these activities depend on spreadsheets, manual work, or disconnected tools, even simple processes can become time-consuming.",
+            intro1: "Hier können Webanwendungen den entscheidenden Unterschied machen. Sie helfen Unternehmen, ihre Abläufe zu steuern, das Kundenerlebnis zu verbessern und zentrale Aktivitäten an einem einzigen Ort zu bündeln.",
+            intro2: "Für Unternehmen, die ihre digitalen Abläufe optimieren möchten, ist die Zusammenarbeit mit einem zuverlässigen Webentwicklungsunternehmen ein praktischer Schritt zum Aufbau von Software, die genau ihren individuellen Anforderungen entspricht.",
+            intro3: "Doch wie genau helfen Webanwendungen einem Unternehmen dabei, intelligenter zu arbeiten? Lassen Sie uns die Vorteile, die Rolle der Cloud-Technologie und die Bedeutung vorausschauender Wachstumsplanung genauer betrachten.",
+
+            sec1_title: "Was ist eine Webanwendung?",
+            sec1_p1: "Eine Webanwendung ist ein Softwareprogramm, auf das Benutzer über einen Webbrowser zugreifen. Im Gegensatz zu einer einfachen Website, die überwiegend Informationen darstellt, ermöglicht eine Webanwendung das Ausführen interaktiver Aufgaben und den Zugriff auf spezifische Funktionen.",
+            sec1_p2: "Typische Beispiele sind Online-Buchungssysteme, Kundenmanagement-Plattformen, Mitarbeiter-Dashboards, Lagerverwaltungssysteme und E-Commerce-Plattformen.",
+            sec1_p3: "Ein Dienstleistungsunternehmen könnte eine Webanwendung beispielsweise nutzen, um Termine zu verwalten, Kundendaten zu sichern, Zahlungen nachzuverfolgen und Dienstpläne zu koordinieren. Statt zwischen vielen verschiedenen Werkzeugen zu wechseln, greift das Team zentral auf alle benötigten Daten zu.",
+            sec1_p4: "Das Hauptziel ist einfach: die tägliche Arbeit einfacher, strukturierter und effizienter zu gestalten.",
+
+            sec2_title: "Wie Webanwendungen Unternehmen helfen, intelligenter zu arbeiten",
+            sec2_p1: "Jedes Unternehmen besitzt Prozesse, die viel Zeit kosten, sich jedoch weitaus effizienter steuern ließen. Eine durchdachte Webanwendung vereinfacht diese Aktivitäten spürbar.",
+
+            sub1_title: "Wiederkehrende Aufgaben automatisieren",
+            sub1_body: "Viele Unternehmen verwenden viele Stunden auf Routineaufgaben wie Dateneingabe, Berichtserstellung, Datenaktualisierung und Benachrichtigungen.\n\nEine Webanwendung kann geeignete Prozesse automatisieren und den manuellen Aufwand deutlich reduzieren. So bestätigt ein Online-Buchungssystem Termine vollautomatisch, während eine Warenwirtschaft den Lagerbestand bei Bestelleingang in Echtzeit anpasst.\n\nDadurch gewinnen Mitarbeiter wertvolle Zeit für Kundenservice, strategische Planung und andere Kernaufgaben.",
+
+            sub2_title: "Unternehmensdaten strukturiert organisieren",
+            sub2_body: "Sind Daten über diverse Tabellen und Anwendungen verteilt, wird das Auffinden relevanter Details oft mühsam.\n\nEine maßgeschneiderte Webanwendung führt alle geschäftsrelevanten Daten in einem zentralen System zusammen. Mitarbeiter können je nach Berechtigung Aufträge prüfen, Kundenakten einsehen, Projekte verfolgen und Berichte direkt über ein einziges Dashboard abrufen.\n\nStrukturierte Daten helfen auch der Geschäftsleitung, betriebliche Abläufe transparent zu analysieren und fundierte Entscheidungen zu treffen.",
+
+            sub3_title: "Das Kundenerlebnis verbessern",
+            sub3_body: "Kunden schätzen Komfort. Sie möchten Informationen schnell finden, Dienstleistungen unkompliziert nutzen und Transaktionen ohne Verzögerung abschließen.\n\nWebanwendungen bieten Funktionen wie Kundenkonten, Online-Zahlungen, Terminbuchungen, Sendungsverfolgung und intuitive Self-Service-Portale.\n\nEin Kunde, der eine Dienstleistung online bucht, ohne mehrere Telefonate führen zu müssen, erlebt einen deutlich reibungsloseren Ablauf.\n\nWenn Anwendungen auf echte Kundenbedürfnisse zugeschnitten sind, schaffen sie gleichbleibend verlässliche und komfortable Services.",
+
+            sub4_title: "Dezentrale und Remote-Teams unterstützen",
+            sub4_body: "Viele Unternehmen beschäftigen Mitarbeiter an verschiedenen Standorten. Webanwendungen bieten berechtigten Teammitgliedern über eine gesicherte Internetverbindung flexiblen Zugriff auf alle benötigten Daten und Arbeitsmittel.\n\nProjekt-Dashboards, geteilte Arbeitsbereiche und Online-Reporting-Tools helfen Teams, Aufgaben präzise zu koordinieren und Fortschritte verlässlich im Blick zu behalten.\n\nDank passender Zugriffssteuerungen und Sicherheitsmaßnahmen können Unternehmen flexible Arbeitsmodelle unterstützen, ohne die Transparenz über zentrale Abläufe zu verlieren.",
+
+            sec3_title: "Warum die Wahl des richtigen Entwicklungspartners entscheidend ist",
+            sec3_p1: "Jedes Unternehmen arbeitet unterschiedlich. Eine Lösung, die für einen Online-Händler ideal ist, eignet sich oft nicht für einen produzierenden Betrieb oder einen professionellen Dienstleister.",
+            sec3_p2: "Ein verlässliches Webentwicklungsunternehmen nimmt sich die Zeit, diese Unterschiede im Detail zu verstehen, bevor eine Empfehlung ausgesprochen wird.",
+            sec3_p3: "Der Prozess beginnt mit der Definition der Geschäftsziele, der Analyse der Nutzeranforderungen und der Auswahl wesentlicher Features. Anschließend planen, gestalten und programmieren Entwickler die Anwendung und testen sie gründlich vor dem Rollout.",
+            sec3_p4: "Beachten Sie bei der Auswahl eines Entwicklungspartners folgende Faktoren:",
+            bp1_title: "Geschäftliches Verständnis",
+            bp1_text: "Das Team sollte die eigentliche geschäftliche Herausforderung verstehen, anstatt lediglich technische Funktionen vorzuschlagen.",
+            bp2_title: "Benutzerfreundliches Design",
+            bp2_text: "Die Anwendung muss intuitiv bedienbar sein und auf allen relevanten Endgeräten reibungslos funktionieren.",
+            bp3_title: "Sicherheit",
+            bp3_text: "Rollenbasierte Berechtigungen, sichere Authentifizierung und standardkonforme Datenschutzmaßnahmen müssen von Anfang an integriert sein.",
+            bp4_title: "Integrationsfähigkeit",
+            bp4_text: "Die Anwendung sollte sich flexibel an bestehende Werkzeuge, Bezahlsysteme oder Drittanbieter-Schnittstellen anbinden lassen.",
+            bp5_title: "Kontinuierlicher Support",
+            bp5_text: "Regelmäßige Updates, vorausschauende Wartung, Fehlerbehebungen und Erweiterungen sollten von Beginn an fest eingeplant werden.",
+            sec3_conclusion: "Die beste Lösung ist nicht zwangsläufig die mit den meisten Features – sondern jene, die Ihre individuellen Herausforderungen nachhaltig löst und wartungsfreundlich bleibt.",
+
+            sec4_title: "Die Rolle moderner Cloud-Infrastruktur",
+            sec4_p1: "Eine Webanwendung benötigt eine stabile Betriebsumgebung. Dazu gehören Rechenressourcen, Speicherplatz, Netzwerkanbindung und alle unterstützenden Systeme zur Bereitstellung der Software.",
+            sec4_p2: "Cloud-Infrastruktur-Services ermöglichen es Unternehmen, diese Ressourcen flexibel zu nutzen, ohne die physische Serverhardware selbst betreiben zu müssen.",
+            sec4_p3: "Cloud-Infrastruktur kann mehrere entscheidende Vorteile bieten.",
+            sec4_p4: "Erstens können Ressourcen dynamisch angepasst werden, wenn sich die Anforderungen ändern – etwa bei Lastspitzen oder wenn ein Unternehmen seine Services erweitert.",
+            sec4_p5: "Zweitens unterstützt die Cloud automatisierte Deployments, kontinuierliches Monitoring, Backups und schnelle Wiederherstellungsprozesse.",
+            sec4_p6: "Drittens erleichtert Cloud-Infrastruktur Entwicklungsteams die Veröffentlichung von Updates und das Management separater Umgebungen.",
+            sec4_p7: "Dennoch garantiert die Verlagerung in die Cloud nicht automatisch mehr Leistung oder Sicherheit. Die Infrastruktur muss sauber konzipiert, überwacht und an den konkreten Bedarf angepasst werden.",
+            sec4_p8: "Für Unternehmen, die neue Digitalprodukte entwickeln, bildet ein fundiertes Cloud-Setup das unverzichtbare Fundament.",
+
+            sec5_title: "Warum skalierbare Softwarelösungen unverzichtbar sind",
+            sec5_p1: "Geschäftswachstum bringt stets veränderte Anforderungen mit sich. Eine Anwendung, die heute für ein kleines Team ausreicht, benötigt mit steigenden Nutzerzahlen mehr Kapazität und erweiterte Funktionen.",
+            sec5_p2: "Deshalb sind skalierbare Softwarelösungen so wichtig.",
+            sec5_p3: "Skalierbare Software ist so konzipiert, dass sie wachsende Anforderungen bewältigt, ohne bei jedem Entwicklungsschritt komplett neu gebaut werden zu müssen.",
+            sec5_p4: "Beispielsweise muss ein Webshop saisonale Besucheranstürme abfangen können. Ein SaaS-Unternehmen führt neue Tarife ein, während ein Dienstleister neue Standorte anbindet.",
+            sec5_p5: "Eine vorausschauend geplante Softwarearchitektur vereinfacht all diese Anpassungen spürbar.",
+            sec5_p6: "Skalierbarkeit umfasst optimierte Datenbanken, performanten Anwendungscode, erweiterbare Serverkapazitäten und eine modulare Softwarestruktur.",
+            sec5_p7: "Es geht darum, zukünftiges Wachstum mitzudenken, ohne die initiale Anwendung unnötig zu überfrachten.",
+            sec5_p8: "Durch realistische Planung können Unternehmen vermeidbare technische Barrieren minimieren und spätere Upgrades wirtschaftlich gestalten.",
+
+            sec6_title: "Wie LunarCode Ihr Unternehmen unterstützen kann",
+            sec6_p1: "Die Wahl der richtigen Technologie beginnt mit dem klaren Verständnis Ihrer unternehmerischen Ziele.",
+            sec6_p2: "LunarCode ist spezialisiert auf Softwareentwicklung, SaaS-Engineering, KI- und Workflow-Automatisierung, Cloud-Infrastruktur und Systemintegration. Diese Kompetenzen unterstützen Unternehmen bei der Entwicklung digitaler Produkte, der Systemoptimierung und effizienteren Abläufen.",
+            sec6_p3: "Ganz gleich, ob Sie eine neue Webanwendung planen oder eine bestehende Plattform modernisieren möchten: Ein klares Ziel ist der beste Ausgangspunkt – sei es manuelle Arbeit abzubauen, den Kundenzugang zu vereinfachen, Silos zu verbinden oder Software auf Wachstum vorzubereiten.",
+            sec6_p4: "Ein pragmatischer Entwicklungsansatz konzentriert sich zuerst auf die wichtigsten Kernanforderungen, testet Lösungen sorgfältig und lässt gezielten Raum für kontinuierliche Weiterentwicklung."
+          },
+
+          cloud_sec: {
+            title: "Aufbau resilienter Enterprise-Systeme: Cloud-Sicherheit & Skalierbarkeit",
+            category: "Cloud-Infrastruktur",
+            readTime: "5 Min. Lesezeit",
+            date: "10. Oktober 2026",
+            author_name: "LunarCode Security Team",
+            author_role: "DevSecOps Division",
+            excerpt: "Entdecken Sie fundamentale Säulen moderner Cloud-Umgebungen: Zero-Trust-Prinzipien, Containerisierung, Microservices und automatisierte CI/CD-Pipelines.",
+            lead: "Sicherheit und Skalierbarkeit sind keine nachträglichen Erweiterungen, sondern grundlegende Architekturentscheidungen am ersten Tag.",
+            intro1: "In einer verteilten Softwarelandschaft erfordert der Schutz von Kundendaten bei gleichbleibend niedrigen Latenzen eine vorausschauende Infrastruktur.",
+            intro2: "Durch Cluster-Orchestrierung, dynamische Zugriffstoken und automatisierte Backups schaffen moderne Unternehmen langfristige digitale Resilienz.",
+            sec1_title: "Zentrale Cloud-Säulen",
+            sec1_p1: "Kontinuierliches Monitoring, minimale Rechtevergabe und automatisierte Tests sichern Services auch bei stark steigender Nutzerlast ab.",
+            sec1_p2: "Die Zusammenarbeit mit erfahrenen Architekten stellt sicher, dass jede Softwareebene ohne Ausfallzeiten unabhängig skaliert."
+          },
+
+          ai_workflow: {
+            title: "Komplexe Workflows automatisieren: Mehr als Tabellenkalkulationen",
+            category: "Automatisierung & KI",
+            readTime: "4 Min. Lesezeit",
+            date: "28. September 2026",
+            author_name: "LunarCode AI Lab",
+            author_role: "Automation Engineers",
+            excerpt: "Wie intelligente Agenten und automatisierte Pipelines Fehler reduzieren, Kundenanfragen beschleunigen und isolierte SaaS-Tools harmonisieren.",
+            lead: "Manuelles Kopieren zwischen getrennten Portalen belastet Teams und führt zu wiederkehrenden Datenfehlern.",
+            intro1: "Moderne Workflow-Automatisierung verbindet Datensilos, ERPs und Kundenportale über ereignisgesteuerte Schnittstellen und intelligente Pipelines.",
+            intro2: "Teams gewinnen monatlich hunderte produktive Stunden zurück, indem sie planbare Routineprozesse an Hintergrunddienste übergeben.",
+            sec1_title: "Die transformative Kraft der Automatisierung",
+            sec1_p1: "Intelligente Benachrichtigungen, automatische Bestandsanpassungen und Echtzeit-Updates schaffen einen reibungslosen Betriebsablauf.",
+            sec1_p2: "LunarCode realisiert individuelle Integrationen, die zeitraubende Routinearbeiten in echte Wettbewerbsvorteile verwandeln."
+          }
+        }
+      },
 
       "web_app_guide": {
   "badge": "LUNARCODE INSIGHTS // SOFTWARE-ARCHITEKTUR",
