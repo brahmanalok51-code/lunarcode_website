@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { useTranslation } from 'react-i18next';
+import { getCustomSoftwareBlog } from './CustomSoftwareBlog';
 import { 
   motion, 
   AnimatePresence, 
@@ -239,6 +240,7 @@ export default function App() {
         ]
       }
     },
+    getCustomSoftwareBlog(t),
     {
       id: "cloud-security-practices",
       slug: "modern-cloud-security-foundations-enterprise-architecture",
@@ -359,9 +361,6 @@ export default function App() {
       {/* Persistent Top Navigation */}
       <header className="sticky top-0 z-40 backdrop-blur-xl bg-[#09080E]/85 border-b border-purple-900/30">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
-       
-
-       
 
           {/* Mobile menu toggle */}
           <div className="flex md:hidden items-center gap-2">
@@ -466,8 +465,7 @@ export default function App() {
         )}
       </AnimatePresence>
 
-      {/* Global Footer */}
-    
+     
     </div>
   );
 }
@@ -500,7 +498,7 @@ function BlogFeedView({
             animate={{ opacity: 1, x: 0 }}
             className="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-purple-500/10 border border-purple-500/30 text-purple-300"
           >
-            
+            <Sparkles className="w-3.5 h-3.5 text-orange-400" />
             {t("blog.feed.badge")}
           </motion.div>
           <motion.h1 
