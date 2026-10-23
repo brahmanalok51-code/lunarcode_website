@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { useTranslation } from 'react-i18next';
 import { getCustomSoftwareBlog } from './CustomSoftwareBlog';
+import { getAiAutomationBlog } from './AiAutomationBlog';
 import { 
   motion, 
   AnimatePresence, 
@@ -241,6 +242,7 @@ export default function App() {
       }
     },
     getCustomSoftwareBlog(t),
+    getAiAutomationBlog(t),
     {
       id: "cloud-security-practices",
       slug: "modern-cloud-security-foundations-enterprise-architecture",

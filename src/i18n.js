@@ -6,6 +6,71 @@ export const resources = {
   en: {
     translation: {
 
+      "ai_automation_blog": {
+  "badge": "LUNARCODE INSIGHTS // AI & AUTOMATION",
+  "heroTitle": "How AI Automation Services Help Businesses Improve Productivity and Growth",
+  "intro": {
+    "p1": "Artificial intelligence is changing how modern businesses operate. From managing customer inquiries to analyzing business data, AI-powered technology is helping organizations simplify daily tasks and improve efficiency. Businesses that adopt the right digital tools can save time, reduce repetitive work, and focus more on growth and customer satisfaction.",
+    "p2": "As technology continues to evolve, many organizations are exploring AI automation to make their operations smarter and more flexible."
+  },
+  "whatIs": {
+    "tag": "DEFINITION & WORKFLOW",
+    "title": "What Are AI Automation Services?",
+    "p1": "AI Automation Services combine artificial intelligence with automated workflows to reduce manual effort and improve business processes. These services can help organizations handle repetitive activities, organize information, and improve communication between different departments.",
+    "p2": "For example, businesses can automate routine customer responses, organize incoming leads, generate reports, and connect different software applications. This allows employees to spend more time on tasks that require creativity, decision-making, and personal attention.",
+    "strategy": "The best automation strategy starts with understanding existing business challenges and identifying where technology can provide practical benefits."
+  },
+  "whyCompany": {
+    "tag": "CUSTOM ENGINEERING",
+    "title": "Why Choose an AI Software Development Company?",
+    "p1": "An experienced AI Software Development Company can help businesses transform their ideas into customized software solutions. Instead of depending entirely on standard tools, organizations can develop applications that match their workflows, customers, and long-term objectives.",
+    "p2": "AI-powered software may include intelligent chatbots, document processing systems, predictive analytics tools, and applications that assist employees with everyday tasks.",
+    "p3": "Custom development also makes it easier to integrate AI features with existing business systems. However, successful implementation requires proper planning, data security, testing, and ongoing maintenance."
+  },
+  "benefits": {
+    "tag": "MEASURABLE IMPACT",
+    "title": "Benefits of Working With an AI Automation Company",
+    "subtitle": "Partnering with an AI Automation Company can help businesses identify opportunities to improve efficiency through technology. Some important benefits include:",
+    "b1": {
+      "title": "1. Reduced manual work",
+      "desc": "Automation can handle repetitive tasks, allowing employees to concentrate on higher-value responsibilities."
+    },
+    "b2": {
+      "title": "2. Improved operational efficiency",
+      "desc": "Well-designed workflows can reduce delays and help teams manage everyday activities more consistently."
+    },
+    "b3": {
+      "title": "3. Better customer experiences",
+      "desc": "AI-powered customer support tools can assist with common questions and help teams respond more efficiently."
+    },
+    "b4": {
+      "title": "4. Data-driven decisions",
+      "desc": "AI systems can help analyze information and identify patterns that support business planning."
+    },
+    "b5": {
+      "title": "5. Scalable business processes",
+      "desc": "As a company grows, carefully designed automation workflows can help manage increasing workloads without requiring every process to be handled manually."
+    },
+    "footer": "The results depend on the business requirements, the quality of the available data, and how effectively the solution is implemented."
+  },
+  "solutions": {
+    "tag": "SELECTION FRAMEWORK",
+    "title": "How to Choose the Right AI Automation Solutions",
+    "p1": "Every organization has different operational needs. Therefore, choosing suitable AI Automation Solutions requires more than selecting the newest technology.",
+    "p2": "Businesses should begin by identifying their most time-consuming processes. They should then evaluate which tasks can be automated, what data is required, and whether the proposed solution can work with their existing software.",
+    "security": "Security and privacy should also be important considerations, particularly when automation involves customer information or confidential business records.",
+    "tracking": "It is equally important to measure performance after implementation. Businesses can track indicators such as processing time, error rates, customer response times, and employee productivity to understand whether the solution is delivering value."
+  },
+  "lunar": {
+    "tag": "DIGITAL TRANSFORMATION",
+    "title": "How LunarCode Supports Digital Transformation",
+    "p1": "LunarCode provides technology-focused services in areas including custom software development, AI and workflow automation, SaaS platform engineering, and system integration.",
+    "p2": "Businesses exploring digital transformation can visit LunarCode to learn more about its services and identify potential solutions for their technical requirements.",
+    "p3": "The right development approach should focus on real business problems rather than adding technology without a clear purpose. Careful planning, reliable implementation, and continuous improvement can help organizations make better use of AI.",
+    "btnCta": "Explore AI Solutions"
+  }
+},
+
       nav: {
         home: "Home",
         about: "About",
@@ -1433,6 +1498,70 @@ about_page: {
   de: {
     translation: {
 
+      "ai_automation_blog": {
+  "badge": "LUNARCODE INSIGHTS // KI & AUTOMATISIERUNG",
+  "heroTitle": "Wie KI-Automatisierungsdienste Unternehmen helfen, Produktivität und Wachstum zu steigern",
+  "intro": {
+    "p1": "Künstliche Intelligenz verändert die Art und Weise, wie moderne Unternehmen agieren. Von der Bearbeitung von Kundenanfragen bis hin zur Analyse geschäftlicher Daten – KI-gestützte Technologie hilft Organisationen, alltägliche Aufgaben zu vereinfachen und die Effizienz zu steigern. Unternehmen, die auf die richtigen digitalen Werkzeuge setzen, sparen Zeit, reduzieren monotone Routinearbeiten und können sich verstärkt auf Wachstum sowie Kundenzufriedenheit konzentrieren.",
+    "p2": "Da sich die Technologie kontinuierlich weiterentwickelt, setzen immer mehr Organisationen auf KI-Automatisierung, um ihre Betriebsabläufe intelligenter und flexibler zu gestalten."
+  },
+  "whatIs": {
+    "tag": "DEFINITION & WORKFLOW",
+    "title": "Was sind KI-Automatisierungsdienste?",
+    "p1": "KI-Automatisierungsdienste kombinieren künstliche Intelligenz mit automatisierten Arbeitsabläufen, um manuellen Aufwand zu minimieren und Geschäftsprozesse zu optimieren. Diese Dienste unterstützen Unternehmen dabei, wiederkehrende Aufgaben zu bewältigen, Informationen zu strukturieren und den Austausch zwischen Abteilungen zu verbessern.",
+    "p2": "Unternehmen können beispielsweise Kundenanfragen automatisiert beantworten, eingehende Leads qualifizieren, Berichte generieren und unterschiedliche Softwareanwendungen miteinander verknüpfen. Dies verschafft Mitarbeitern mehr Freiraum für Aufgaben, die Kreativität, strategische Entscheidungen und persönliche Betreuung erfordern.",
+    "strategy": "Die beste Automatisierungsstrategie beginnt mit dem genauen Verständnis bestehender geschäftlicher Hürden und der Identifikation von Bereichen, in denen Technologie echten praktischen Mehrwert stiftet."
+  },
+  "whyCompany": {
+    "tag": "INDIVIDUELLES ENGINEERING",
+    "title": "Warum ein erfahrenes KI-Softwareentwicklungsunternehmen wählen?",
+    "p1": "Ein erfahrenes KI-Softwareentwicklungsunternehmen unterstützt Betriebe dabei, eigene Visionen in maßgeschneiderte Softwarelösungen zu überführen. Anstatt sich ausschließlich auf Standardanwendungen zu stützen, können Organisationen Lösungen entwickeln lassen, die präzise zu ihren Workflows, Kundenbedürfnissen und langfristigen Unternehmenszielen passen.",
+    "p2": "KI-gestützte Software umfasst unter anderem intelligente Chatbots, automatisierte Dokumentenverarbeitung, vorausschauende Analysetools sowie Anwendungen, die Mitarbeiter im Tagesgeschäft zielgerichtet entlasten.",
+    "p3": "Eine individuelle Entwicklung erleichtert zudem die nahtlose Integration von KI-Funktionen in bestehende Kernsysteme. Eine erfolgreiche Einführung setzt jedoch sorgfältige Planung, verlässliche Datensicherheit, gründliche Tests und eine nachhaltige Wartung voraus."
+  },
+  "benefits": {
+    "tag": "MESSBARER MEHRWERT",
+    "title": "Vorteile der Zusammenarbeit mit einem KI-Automatisierungsunternehmen",
+    "subtitle": "Die Partnerschaft mit einem KI-Automatisierungsunternehmen hilft Betrieben, Potenziale zur Effizienzsteigerung durch Technologie gezielt zu erkennen und umzusetzen. Zu den wichtigsten Vorteilen gehören:",
+    "b1": {
+      "title": "1. Reduzierter manueller Aufwand",
+      "desc": "Automatisierung übernimmt repetitive Aufgaben, sodass sich Mitarbeiter auf wertschöpfende Kernbereiche konzentrieren können."
+    },
+    "b2": {
+      "title": "2. Gesteigerte operative Effizienz",
+      "desc": "Durchdachte Workflows minimieren Verzögerungen und sorgen dafür, dass alltägliche Aufgaben konsistenter bewältigt werden."
+    },
+    "b3": {
+      "title": "3. Verbessertes Kundenerlebnis",
+      "desc": "KI-gestützte Support-Tools beantworten Routinefragen umgehend und unterstützen Serviceteams dabei, schneller zu reagieren."
+    },
+    "b4": {
+      "title": "4. Datenbasierte Entscheidungen",
+      "desc": "KI-Systeme werten komplexe Datensätze aus und erkennen Muster, die eine fundierte Unternehmensplanung erleichtern."
+    },
+    "b5": {
+      "title": "5. Skalierbare Geschäftsprozesse",
+      "desc": "Wächst ein Unternehmen, fangen strukturierte Automatisierungs-Workflows steigende Arbeitslasten zuverlässig ab, ohne dass jeder Prozess manuell skaliert werden muss."
+    },
+    "footer": "Die konkreten Ergebnisse hängen stets von den individuellen Unternehmensanforderungen, der Qualität der Datenbasis und der Präzision der technischen Implementierung ab."
+  },
+  "solutions": {
+    "tag": "AUSWAHLKRITERIEN",
+    "title": "Wie Sie die passenden KI-Automatisierungslösungen auswählen",
+    "p1": "Jedes Unternehmen besitzt individuelle betriebliche Anforderungen. Die Auswahl passender KI-Automatisierungslösungen erfordert daher weit mehr als den bloßen Griff zur neuesten Technologie.",
+    "p2": "Unternehmen sollten zunächst ihre zeitintensivsten Abläufe identifizieren. Anschließend gilt es zu evaluieren, welche Teilaufgaben automatisierbar sind, welche Daten benötigt werden und wie sich die Lösung in bestehende Software einbinden lässt.",
+    "security": "Sicherheit und Datenschutz spielen eine tragende Rolle – insbesondere, wenn automatisierte Workflows sensible Kundendaten oder vertrauliche Unternehmensunterlagen verarbeiten.",
+    "tracking": "Ebenso entscheidend ist die Erfolgsmessung nach dem Rollout. Kennzahlen wie Bearbeitungsdauer, Fehlerraten, Reaktionszeiten und Mitarbeiterproduktivität zeigen auf, ob die Lösung den erwarteten wirtschaftlichen Nutzen erzielt."
+  },
+  "lunar": {
+    "tag": "DIGITALE TRANSFORMATION",
+    "title": "Wie LunarCode Ihre digitale Transformation unterstützt",
+    "p1": "LunarCode bietet technologieorientierte Dienstleistungen in den Bereichen individuelle Softwareentwicklung, KI- und Workflow-Automatisierung, SaaS-Plattform-Engineering und Systemintegration.",
+    "p2": "Unternehmen, die ihre digitale Transformation vorantreiben möchten, können sich bei LunarCode über maßgeschneiderte technische Lösungen für ihre Anforderungen informieren.",
+    "p3": "Der richtige Entwicklungsansatz setzt bei konkreten betrieblichen Herausforderungen an, statt Technologie ohne klaren Zweck einzuführen. Sorgfältige Planung, zuverlässige Umsetzung und kontinuierliche Optimierung sorgen dafür, dass Organisationen das Potenzial von KI voll ausschöpfen.",
+    "btnCta": "KI-Lösungen entdecken"
+  }
+},
 
       nav: {
         home: "Startseite",
